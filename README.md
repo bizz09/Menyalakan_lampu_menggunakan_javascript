@@ -1,1 +1,3 @@
-# Menyalakan_lampu_menggunakan_javascript
+# Simple Code JavaScript
+
+Repo ini sebagai bukti bahwa saya pernah belajar javascript
